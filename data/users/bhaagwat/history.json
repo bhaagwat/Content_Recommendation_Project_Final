@@ -1,0 +1,73 @@
+{
+  "watched": [
+    {
+      "movie_id": 147,
+      "rating": null,
+      "timestamp": "2026-01-08T18:30:09.838645",
+      "is_seed": true
+    },
+    {
+      "movie_id": 547,
+      "rating": null,
+      "timestamp": "2026-01-08T18:30:09.838645",
+      "is_seed": true
+    },
+    {
+      "movie_id": 4166,
+      "rating": null,
+      "timestamp": "2026-01-08T18:30:09.838645",
+      "is_seed": true
+    },
+    {
+      "movie_id": 3554,
+      "rating": null,
+      "timestamp": "2026-01-08T18:30:09.838645",
+      "is_seed": true
+    },
+    {
+      "movie_id": 1840,
+      "rating": null,
+      "timestamp": "2026-01-08T18:30:09.838645",
+      "is_seed": true
+    },
+    {
+      "movie_id": 3724,
+      "rating": null,
+      "timestamp": "2026-01-08T18:30:09.838645",
+      "is_seed": true
+    },
+    {
+      "movie_id": 1672,
+      "rating": null,
+      "timestamp": "2026-01-08T18:30:09.838645",
+      "is_seed": true
+    },
+    {
+      "movie_id": 1704,
+      "rating": null,
+      "timestamp": "2026-01-08T18:30:09.838645",
+      "is_seed": true
+    },
+    {
+      "movie_id": 2826,
+      "rating": null,
+      "timestamp": "2026-01-08T18:30:09.838645",
+      "is_seed": true
+    },
+    {
+      "movie_id": 1178,
+      "rating": null,
+      "timestamp": "2026-01-08T18:30:09.838645",
+      "is_seed": true
+    },
+    {
+      "movie_id": 6618,
+      "title": "Shaolin Soccer (Siu lam juk kau) (2001)",
+      "rating": 4,
+      "timestamp": "2026-01-08T18:32:58.821101",
+      "is_seed": false
+    }
+  ],
+  "total_movies": 11,
+  "avg_rating": 4.0
+}

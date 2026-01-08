@@ -1,0 +1,28 @@
+{
+  "collaborative_filter": {
+    "top_1_accuracy": 5.0,
+    "top_5_accuracy": 17.0,
+    "top_10_accuracy": 23.799999999999997,
+    "top_20_accuracy": 31.4,
+    "sample_size": 500,
+    "vocab_size": 5479,
+    "random_top_1": 0.01825150574922431,
+    "random_top_5": 0.09125752874612156,
+    "random_top_10": 0.18251505749224312,
+    "random_top_20": 0.36503011498448623,
+    "improvement_top_1": 273.95000000000005,
+    "improvement_top_10": 130.40019999999998
+  },
+  "ab_test": {
+    "group_a_avg": 7.666666666666667,
+    "group_b_avg": 29.166666666666668,
+    "group_a_std": 8.470865100776635,
+    "group_b_std": 32.66198946107777,
+    "improvement_percent": 280.4347826086956
+  },
+  "user_simulation": {
+    "avg_genre_match_rate": 62.0,
+    "successful_journeys": 10,
+    "total_journeys": 10
+  }
+}

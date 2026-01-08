@@ -1,0 +1,41 @@
+{
+  "username": "inder",
+  "created_at": "2026-01-08T18:35:09.826436",
+  "preferences": {
+    "genres": [],
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Liam Neeson",
+      "Tom Hiddleston",
+      "Chris Hemsworth"
+    ],
+    "directors": [
+      "George Lucas",
+      "Steven Spielberg",
+      "James Cameron",
+      "Christopher Nolan",
+      "Guillermo del Toro"
+    ],
+    "keywords": [
+      "space opera",
+      "galactic battles",
+      "alien invasions",
+      "time travel",
+      "superhero origin stories"
+    ]
+  },
+  "seed_movies": [
+    1196,
+    2628,
+    1924,
+    1200,
+    3793,
+    1831,
+    2531,
+    1676,
+    260,
+    3827
+  ],
+  "onboarding_complete": true
+}

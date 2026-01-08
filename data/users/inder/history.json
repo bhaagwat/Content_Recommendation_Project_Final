@@ -1,0 +1,73 @@
+{
+  "watched": [
+    {
+      "movie_id": 1196,
+      "rating": null,
+      "timestamp": "2026-01-08T18:42:03.030990",
+      "is_seed": true
+    },
+    {
+      "movie_id": 2628,
+      "rating": null,
+      "timestamp": "2026-01-08T18:42:03.030990",
+      "is_seed": true
+    },
+    {
+      "movie_id": 1924,
+      "rating": null,
+      "timestamp": "2026-01-08T18:42:03.030990",
+      "is_seed": true
+    },
+    {
+      "movie_id": 1200,
+      "rating": null,
+      "timestamp": "2026-01-08T18:42:03.030990",
+      "is_seed": true
+    },
+    {
+      "movie_id": 3793,
+      "rating": null,
+      "timestamp": "2026-01-08T18:42:03.030990",
+      "is_seed": true
+    },
+    {
+      "movie_id": 1831,
+      "rating": null,
+      "timestamp": "2026-01-08T18:42:03.030990",
+      "is_seed": true
+    },
+    {
+      "movie_id": 2531,
+      "rating": null,
+      "timestamp": "2026-01-08T18:42:03.030990",
+      "is_seed": true
+    },
+    {
+      "movie_id": 1676,
+      "rating": null,
+      "timestamp": "2026-01-08T18:42:03.030990",
+      "is_seed": true
+    },
+    {
+      "movie_id": 260,
+      "rating": null,
+      "timestamp": "2026-01-08T18:42:03.030990",
+      "is_seed": true
+    },
+    {
+      "movie_id": 3827,
+      "rating": null,
+      "timestamp": "2026-01-08T18:42:03.030990",
+      "is_seed": true
+    },
+    {
+      "movie_id": 1584,
+      "title": "Contact (1997)",
+      "rating": 4,
+      "timestamp": "2026-01-08T18:43:14.559828",
+      "is_seed": false
+    }
+  ],
+  "total_movies": 11,
+  "avg_rating": 4.0
+}

@@ -1,0 +1,22 @@
+============================================================
+MOVIE RECOMMENDATION SYSTEM - EVALUATION REPORT
+============================================================
+
+
+1. COLLABORATIVE FILTER
+----------------------------------------
+Sample Size: 500
+Vocabulary: 5479 movies
+Top-1 Accuracy:  5.00% (274x better than random)
+Top-10 Accuracy: 23.80% (130x better than random)
+
+2. A/B TEST (RL PERSONALIZATION)
+----------------------------------------
+Without RL: 7.7%
+With RL: 29.2%
+Improvement: +280.4%
+
+3. USER SIMULATION
+----------------------------------------
+Success Rate: 10/10
+Genre Match Rate: 62.0%
