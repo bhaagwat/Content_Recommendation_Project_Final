@@ -34,15 +34,15 @@ These results significantly outperform random baselines given the large movie vo
 
 
 📂 **Project Structure** <br />
-collab-model/
-├── agents/          # LLM & RL agents
-├── data/            # Data processing
-├── models/          # Model architectures
-├── evaluation_results/
-├── user/            # User interaction logic
-├── app.py           # Streamlit app
-├── config.py
-└── requirements.txt
+collab-model/ <br />
+├── agents/          # LLM & RL agents <br />
+├── data/            # Data processing <br />
+├── models/          # Model architectures <br />
+├── evaluation_results/ <br />
+├── user/            # User interaction logic <br />
+├── app.py           # Streamlit app <br />
+├── config.py <br />
+└── requirements.txt <br />
 
 
 
