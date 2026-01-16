@@ -1,4 +1,4 @@
-🎬 **MovieSalah**
+🎬 **MovieSalah** <br />
 MovieSalah is a context-aware movie recommendation system designed to deliver personalised, intent-driven, and explainable recommendations for streaming platforms. It understands natural language queries, learns from user watch history, adapts over time, and explains why each movie is recommended.
 The system combines semantic retrieval, deep learning–based collaborative filtering, large language models, and reinforcement learning to optimise both short-term relevance and long-term user engagement.
 
