@@ -3,13 +3,14 @@ MovieSalah is a context-aware movie recommendation system designed to deliver pe
 The system combines semantic retrieval, deep learning–based collaborative filtering, large language models, and reinforcement learning to optimise both short-term relevance and long-term user engagement.
 
 
-🚀 **Key Features** <br />
-Natural language movie queries
-Semantic intent understanding beyond keywords
-Personalised recommendations from user's watch history
-Reinforcement learning–based ranking optimisation
-LLM-generated explanations for transparency
-Interactive Streamlit application
+🚀 Key Features
+- Natural language movie queries
+- Semantic intent understanding beyond keywords
+- Personalised recommendations from user's watch history
+- Reinforcement learning–based ranking optimisation
+- LLM-generated explanations for transparency
+- Interactive Streamlit application
+
 
 
 🧠 **System Overview** <br />
