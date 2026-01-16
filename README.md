@@ -3,7 +3,7 @@ MovieSalah is a context-aware movie recommendation system designed to deliver pe
 The system combines semantic retrieval, deep learning–based collaborative filtering, large language models, and reinforcement learning to optimise both short-term relevance and long-term user engagement.
 
 
-🚀 **Key Features**
+🚀 **Key Features** <br />
 Natural language movie queries
 Semantic intent understanding beyond keywords
 Personalised recommendations from user's watch history
@@ -12,12 +12,12 @@ LLM-generated explanations for transparency
 Interactive Streamlit application
 
 
-🧠 **System Overview**
+🧠 **System Overview** <br />
 The recommendation pipeline works as follows:
 User query → LLM-based intent parsing → Semantic retrieval (vector database) → BiLSTM + attention (collaborative filtering) → Reinforcement learning ranker → Streamlit UI with explanations
 
 
-🛠️ **Tech Stack**
+🛠️ **Tech Stack** <br />
 Programming & UI: Python, Streamlit
 Machine Learning: PyTorch, NumPy, Pandas
 NLP & LLMs: Sentence-Transformers, LangChain, Ollama (llama3.2)
@@ -25,7 +25,7 @@ Vector Database: ChromaDB
 
 
 
-📊 **Model Performance**
+📊 **Model Performance** <br />
 Collaborative filtering model results:
 Top-10 Accuracy: ~16.8%
 Top-20 Accuracy: ~25.9%
@@ -33,7 +33,7 @@ These results significantly outperform random baselines given the large movie vo
 
 
 
-📂 **Project Structure**
+📂 **Project Structure** <br />
 collab-model/
 ├── agents/          # LLM & RL agents
 ├── data/            # Data processing
@@ -47,17 +47,19 @@ collab-model/
 
 
 
-▶️ **Running the Application**
+▶️ **Running the Application** <br />
+```
 pip install -r requirements.txt
 streamlit run app.py
 Ollama must be running locally for query understanding and recommendation explanations.
+```
 
 
-📦 **Model & Dataset**
+📦 **Model & Dataset** <br />
 The trained model and full dataset are not included due to size constraints.
 All model architectures, training logic, and evaluation code are provided.
 Model and data can be shared separately for academic or demonstration purposes.
 
 
-👤 **Author**
+👤 **Author** <br />
 Bhaagwat Sharma
