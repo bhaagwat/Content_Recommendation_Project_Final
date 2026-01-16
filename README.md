@@ -44,6 +44,13 @@ collab-model/ <br />
 ├── config.py <br />
 └── requirements.txt <br />
 
+📓 Notebooks
+
+- `MovieSalah_Main.ipynb`  
+  Primary notebook containing the complete system description, model architecture, implementation, evaluation, and analysis.
+
+- `MovieSalah_Training_Full.ipynb`  
+  Reference notebook containing the full end-to-end training run with complete epoch-wise logs.
 
 
 
